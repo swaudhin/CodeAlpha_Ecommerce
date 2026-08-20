@@ -70,7 +70,4 @@ npm run dev                 # starts on http://localhost:5173
 | GET | /api/orders | All orders | admin |
 | PUT | /api/orders/:id/status | Update order status | admin |
 
-## Notes for submission
-Rename nothing — this repo is already named `CodeAlpha_ProjectName` style
-(`CodeAlpha_Ecommerce`) as required by the internship instructions. Push it to
-GitHub as-is, record your walkthrough video, and submit the repo link.
+
